@@ -8,3 +8,8 @@
 	url = https://github.com/nchenderson/daarem
 	shallow = true
 	registered = true
+[submodule "rvalues"]
+	path = rvalues
+	url = https://github.com/cran/rvalues
+	shallow = true
+	registered = true
