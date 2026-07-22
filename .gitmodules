@@ -5,6 +5,9 @@
 [submodule "daarem"]
 	path = daarem
 	url = https://github.com/nchenderson/daarem
+[submodule "ropper"]
+	path = ropper
+	url = https://github.com/nchenderson/ropper
 [submodule "rvalues"]
 	path = rvalues
 	url = https://github.com/cran/rvalues
